@@ -1,9 +1,11 @@
 
 def increment(value):
-    pass
+    return value + 1
+
 
 def decrement(value):
-    pass
+    return value - 1
+
 
 def reset():
     """
@@ -11,4 +13,4 @@ def reset():
     param:
     return:
     """
-    pass
+    return 0
