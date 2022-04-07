@@ -6,3 +6,6 @@ def get_user_input():
 def main():
     user_input = get_user_input()
     increment(user_input)
+
+
+main()
